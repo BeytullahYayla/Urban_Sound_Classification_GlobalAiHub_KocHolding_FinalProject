@@ -51,8 +51,7 @@ As mentioned in the project document our primary aim was to convert our audio fi
                                     print(f"Part {i} completed")
                                     i=i+1
 
-audio_files list contains paths of every audio file. We decided to
-
+audio_files list contains paths of  audio files in every folder. At every step in outer for loop actually we obtained a list that contains corresponding foldername's audiofiles. In the inner loop we've done neccesseary converting operations and saved figures to our computer.
  
 
  
